@@ -67,3 +67,8 @@ I want to continue improving my:
 ## Acknowledgments
 
 Thanks to the Frontend Mentor community for providing practical projects that help improve front-end development skills.
+
+## Links
+
+- Repository URL: https://github.com/Pryassin/blog-preview-card
+- Live Site URL: https://pryassin.github.io/blog-preview-card/
